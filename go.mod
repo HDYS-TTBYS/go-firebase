@@ -7,19 +7,30 @@ require (
 	cloud.google.com/go/firestore v1.5.0 // indirect
 	cloud.google.com/go/storage v1.10.0 // indirect
 	firebase.google.com/go/v4 v4.7.1 // indirect
+	github.com/cespare/xxhash/v2 v2.1.2 // indirect
+	github.com/cosmtrek/air v1.27.10 // indirect
+	github.com/fatih/color v1.13.0 // indirect
+	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/go-chi/chi/v5 v5.0.7 // indirect
+	github.com/go-chi/cors v1.2.0 // indirect
+	github.com/go-chi/httprate v0.5.2 // indirect
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
 	github.com/golang/protobuf v1.4.3 // indirect
 	github.com/google/go-cmp v0.5.4 // indirect
 	github.com/googleapis/gax-go/v2 v2.0.5 // indirect
+	github.com/imdario/mergo v0.3.12 // indirect
 	github.com/joho/godotenv v1.4.0 // indirect
 	github.com/jstemmer/go-junit-report v0.9.1 // indirect
+	github.com/mattn/go-colorable v0.1.12 // indirect
+	github.com/mattn/go-isatty v0.0.14 // indirect
+	github.com/pelletier/go-toml v1.9.4 // indirect
+	github.com/pkg/errors v0.9.1 // indirect
 	go.opencensus.io v0.22.5 // indirect
 	golang.org/x/lint v0.0.0-20201208152925-83fdc39ff7b5 // indirect
 	golang.org/x/mod v0.4.1 // indirect
 	golang.org/x/net v0.0.0-20201224014010-6772e930b67b // indirect
 	golang.org/x/oauth2 v0.0.0-20210218202405-ba52d332ba99 // indirect
-	golang.org/x/sys v0.0.0-20210223095934-7937bea0104d // indirect
+	golang.org/x/sys v0.0.0-20220209214540-3681064d5158 // indirect
 	golang.org/x/text v0.3.4 // indirect
 	golang.org/x/tools v0.1.0 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
